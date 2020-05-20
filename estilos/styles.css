@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Jost', sans-serif;
+}
+
+.barra_usuario {
+    background-color: #2d3e54;
+    text-align: right;
+}
+
+.boton {
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+    color: white;
+    font-size: 1.05em;
+    text-decoration: none;
+}
+
+.boton:hover {
+    background-color: white;
+    color: #2d3e54;
+    font-weight: bolder;
+}
+
+.titulos {
+    background-color: #354966;
+    padding: 30px 15px 30px 80px;
+    color: white;
+}
+
+.titulos h1, .titulos h2 {
+    margin-bottom: 15px;
+}
+
+.titulos h1 {
+    font-size: 1.75em;
+}
+
+.titulos h2 {
+    font-size: 1.2em;
+}
