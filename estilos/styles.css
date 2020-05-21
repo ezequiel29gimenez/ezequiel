@@ -41,3 +41,39 @@
 .titulos h2 {
     font-size: 1.2em;
 }
+
+.tomato {
+    background-color: tomato; 
+    height: 50px; 
+    text-align: center; 
+    color: WHITE;
+}
+
+.enlaces {
+    text-decoration: none;
+}
+
+.enlaces:visited {
+    color: mediumseagreen;
+}
+
+.enlaces:link {
+    color: dodgerblue;
+}
+
+.enlaces:active {
+    color: orange;
+}
+
+img {
+    width: 250px;
+    float: right;
+}
+
+.fondo {
+    background-image: url(../imagenes/uruguay-1-e1573265526917.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    /* background-size: cover; */
+}
